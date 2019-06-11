@@ -1,0 +1,3 @@
+# :exceptionallyfastparrot:
+
+![An animation displaying a drawing of a parrot in the style of the common Party Parrot animation. The animation runs at 50 fps, the maximum currently supported by most Web browsers and by the Slack client in which this gif is apt to be used. The first frame of the animation depicts a red parrot leaning to the right. The second frame of the animation depicts a green parrot leaning to the left. The third frame of the animation depicts a blue parrot leaning to the left. The blue parrot's head is positioned slightly lower than that of the green parrot, which creates an illusion of continuous motion suggesting a parrot moving back and forth at immense speed.](exceptionallyfastparrot.gif)
